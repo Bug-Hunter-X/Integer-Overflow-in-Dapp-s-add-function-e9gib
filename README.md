@@ -1,0 +1,1 @@
+This repository contains a bug report and solution for an integer overflow vulnerability in a Dapp's add function. The bug occurs when adding large numbers that exceed the maximum value representable by the integer type used. The solution involves using SafeMath library to prevent overflow.
